@@ -1,0 +1,14 @@
+.catalog-main__container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 68px;
+  width: 1350px;
+}
+
+.catalog-main__filters {
+  width: 193px;
+}
+.catalog-main__items {
+  min-width: 1000px;
+  max-width: 1170px;
+}

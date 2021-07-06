@@ -1,0 +1,10 @@
+.catalog-items__container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.ml-24 {
+  margin-left: 24px;
+}

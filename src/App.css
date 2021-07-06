@@ -1,0 +1,13 @@
+.app {
+  display: block;
+  /* flex-direction: column;
+  align-items: center;
+  justify-content: center; */
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  padding: 0px 40px;
+  position: relative;
+}

@@ -1,0 +1,14 @@
+.catalog-filters {
+  min-width: 193px;
+}
+
+.catalog-filters__title {
+  margin-bottom: 35px;
+}
+
+.catalog-filters__spotlight {
+  margin-top: 27px;
+}
+.catalog-filters__spotlight__checkboxes {
+  margin-top: 10px;
+}

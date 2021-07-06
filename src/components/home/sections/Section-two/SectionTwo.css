@@ -1,0 +1,37 @@
+.section-one {
+  max-height: 800px;
+  /* background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)); */
+  background-blend-mode: color-burn, normal;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* filter: brightness(70%); */
+}
+
+.section-one__title {
+  width: 427px;
+  height: 200px;
+  position: absolute;
+  top: 260px;
+  left: 40px;
+  color: #ffffff;
+}
+
+.h1 {
+  font-family: DM Serif Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 73px;
+  line-height: 100px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
